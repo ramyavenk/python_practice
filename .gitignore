@@ -1,0 +1,6 @@
+# Ignore certain folders, logs, system files or MAC files
+docs/
+outputs/
+inputs/
+.DS_store
+*_venv/
