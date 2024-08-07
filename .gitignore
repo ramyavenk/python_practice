@@ -4,3 +4,4 @@ outputs/
 inputs/
 .DS_store
 *_venv/
+.vscode
